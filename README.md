@@ -1,2 +1,0 @@
-# TributePage
-FreeCodeCamp first project
